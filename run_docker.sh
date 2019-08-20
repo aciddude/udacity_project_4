@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build . -t udacity_microservice:v1
+docker build . -t acidd/udacity_microservice:v1
 
 
 # Step 2: 
